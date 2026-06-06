@@ -164,14 +164,7 @@ Power-System-Fault-Detection/
 ├── notebooks/
 │   └── model_training.ipynb
 │
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── train_model.py
-│   └── prediction.py
-│
-├── models/
-│   └── fault_detection_model.pkl
+├── fault_detection_model.pkl
 │
 ├── app.py
 ├── requirements.txt
