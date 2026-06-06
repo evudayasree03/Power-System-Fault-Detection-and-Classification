@@ -1,7 +1,5 @@
 # Power-System-Fault-Detection-and-Classification
 
-# ⚡ Power System Fault Detection and Classification
-
 ## 📌 Overview
 
 Power distribution systems are critical infrastructure that require continuous monitoring to ensure reliability and stability. Faults such as **Transformer Failures, Line Breakages, and Overheating** can lead to power outages, equipment damage, and increased operational costs.
